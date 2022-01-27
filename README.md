@@ -1,3 +1,3 @@
-# yyx-mini(招聘小程序)
+# taro-mini(taro小程序模板)
 ###快速创建页面
  - Taro create --name [页面名称]
